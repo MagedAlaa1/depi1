@@ -1,2 +1,3 @@
 a new file in feature
 first addition to filef.txt
+second line as it should be 
